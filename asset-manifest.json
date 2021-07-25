@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/,https://mohammad-rahi.github.io/react-portfolio/static/css/main.0bed2e91.chunk.css",
+    "main.js": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/main.c4b3ef9f.chunk.js",
+    "main.js.map": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/main.c4b3ef9f.chunk.js.map",
+    "runtime-main.js": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/runtime-main.cbb004ba.js",
+    "runtime-main.js.map": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/runtime-main.cbb004ba.js.map",
+    "static/js/2.f9bbdfdf.chunk.js": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/2.f9bbdfdf.chunk.js",
+    "static/js/2.f9bbdfdf.chunk.js.map": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/2.f9bbdfdf.chunk.js.map",
+    "index.html": "/,https://mohammad-rahi.github.io/react-portfolio/index.html",
+    "static/css/main.0bed2e91.chunk.css.map": "/,https://mohammad-rahi.github.io/react-portfolio/static/css/main.0bed2e91.chunk.css.map",
+    "static/js/2.f9bbdfdf.chunk.js.LICENSE.txt": "/,https://mohammad-rahi.github.io/react-portfolio/static/js/2.f9bbdfdf.chunk.js.LICENSE.txt",
+    "static/media/calculator.e44ceead.jpg": "/,https://mohammad-rahi.github.io/react-portfolio/static/media/calculator.e44ceead.jpg",
+    "static/media/contact2.7e1d0101.jpeg": "/,https://mohammad-rahi.github.io/react-portfolio/static/media/contact2.7e1d0101.jpeg",
+    "static/media/drumPad.96c5f859.jpeg": "/,https://mohammad-rahi.github.io/react-portfolio/static/media/drumPad.96c5f859.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb004ba.js",
+    "static/js/2.f9bbdfdf.chunk.js",
+    "static/css/main.0bed2e91.chunk.css",
+    "static/js/main.c4b3ef9f.chunk.js"
+  ]
+}
